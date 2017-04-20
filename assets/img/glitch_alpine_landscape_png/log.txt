@@ -1,0 +1,937 @@
+
+*** Files to process: ***
+cliffside_1a_al1.fla
+cliffside_1b_al1.fla
+cliffside_1c_al1.fla
+cliffside_1d_al1.fla
+cliffside_patch_1a_al1.fla
+cliff_face_bandaid_01a_al1.fla
+cliff_face_bandaid_01b_al1.fla
+cliff_face_bandaid_02a.fla
+cliff_face_bandaid_02b.fla
+cliff_face_bandaid_02c.fla
+cliff_face_bandaid_highlight_02a.fla
+cliff_face_bandaid_highlight_02b.fla
+cliff_face_bandaid_highlight_02c.fla
+cliff_face_bandaid_shadow_02a.fla
+cliff_face_bandaid_shadow_02b.fla
+cliff_face_bandaid_shadow_02c.fla
+cliff_face_bandaid_topper_01a_al1.fla
+cliff_face_bandaid_topper_01b_al1.fla
+cliff_face_bg_topper_01a_al1.fla
+cliff_face_bg_topper_01b_al1.fla
+cliff_face_crack_01a_al1.fla
+cliff_face_crack_01b_al1.fla
+cliff_face_mountaineering_01a_al1.fla
+cliff_face_mountaineering_01b_al1.fla
+cliff_face_mountaineering_01c_al1.fla
+cliff_face_mountaineering_01d_al1.fla
+cliff_face_mountaineering_01e_al1.fla
+cliff_face_plat_01a_al1.fla
+cliff_face_plat_01b_al1.fla
+cliff_face_roof_01a_al1.fla
+cliff_face_roof_highlight_01a_al1.fla
+cliff_face_roof_shadow_01a_al1.fla
+cliff_face_skirt_01a_al1.fla
+cliff_face_skirt_01b_al1.fla
+cliff_face_snow_01a_al1.fla
+cliff_face_snow_01b_al1.fla
+cliff_face_snow_01c_al1.fla
+cliff_face_snow_01d_al1.fla
+cliff_side_highlight_long_mountaineering_01a_al1.fla
+cliff_side_highlight_overhang_01a_al1.fla
+cliff_side_highlight_short_mountaineering_01a_al1.fla
+cliff_side_highlight_underhang_01a_al1.fla
+cliff_side_highlight_vertical_ledge_01a_al1.fla
+cliff_side_shadow_long_mountaineering_01b_al1.fla
+cliff_side_shadow_overhang_01a_al1.fla
+cliff_side_shadow_short_mountaineering_01a_al1.fla
+cliff_side_shadow_underhang_01a_al1.fla
+cliff_side_shadow_vertical_ledge_01a_al1.fla
+cone_top_rock_01a_al1.fla
+cone_top_rock_01b_al1.fla
+cone_top_snow_01a_al1.fla
+cone_top_snow_01b_al1.fla
+draping_plant_01a_al1.fla
+draping_plant_01b_al1.fla
+draping_plant_01c_al1.fla
+exit_sign_01a_newxptutorialgroddle.fla
+freeze_01a_al.fla
+freeze_01_al.fla
+freeze_1_rung_1.fla
+freeze_1_rung_2.fla
+freeze_1_rung_3.fla
+freeze_1_rung_4.fla
+freeze_1_rung_5.fla
+freeze_2_rung_1.fla
+freeze_2_rung_2.fla
+freeze_2_rung_3.fla
+freeze_2_rung_4.fla
+freeze_2_rung_5.fla
+freeze_single_v1_al1.fla
+icicle_1a_al1.fla
+icicle_1b_al1.fla
+juju_grandma_campfire_01a_al1.fla
+juju_grandma_chair_01a_al1.fla
+juju_grandma_papers_01a_al1.fla
+juju_grandma_papers_01b_al1.fla
+juju_grandma_papers_01c_al1.fla
+juju_grandma_tent_01a_al1.fla
+ladder_base_01a_al1.fla
+ladder_base_corner_01a_al1.fla
+ladder_corner_01a_al1.fla
+ladder_corner_01b_al1.fla
+ladder_hole_01a_al1.fla
+ladder_hole_01b_al1.fla
+ladder_rock_01a_al1.fla
+ladder_rock_01b_al1.fla
+mound_modular_1a_al1.fla
+mound_modular_1b_al1.fla
+mound_modular_1c_al1.fla
+mound_modular_1d_al1.fla
+mound_modular_1e_al1.fla
+mountain_bonsai_01a_al1.fla
+mountain_bonsai_01b_al1.fla
+mountain_bonsai_01c_al1.fla
+mountain_flora_01a_al1.fla
+mountain_flora_01b_al1.fla
+mountain_flora_01c_al1.fla
+mountain_flora_01d_al1.fla
+mountain_flora_01e_al1.fla
+mountain_flora_01f_al1.fla
+mountain_flora_01g_al1.fla
+mountain_flora_01h_al1.fla
+patch_deco.fla
+platform_cone_base_01a_al1.fla
+platform_cone_base_01b_al1.fla
+platform_cone_topper_01a_al1.fla
+platform_cone_topper_01b_al1.fla
+platform_horizontal_ledge_corner_left_bottom_mountaineering_01b_al1.fla
+platform_horizontal_ledge_corner_left_dip_01a_al1.fla
+platform_horizontal_ledge_corner_left_mountaineering_01b_al1.fla
+platform_horizontal_ledge_corner_left_rise_01a_al1.fla
+platform_horizontal_ledge_corner_right_bottom_mountaineering_01b_al1.fla
+platform_horizontal_ledge_corner_right_dip_01a_al1.fla
+platform_horizontal_ledge_corner_right_mountaineering_01b_al1.fla
+platform_horizontal_ledge_corner_right_rise_01a_al1.fla
+platform_horizontal_ledge_mountaineering_01a_al1.fla
+platform_horizontal_ledge_mountaineering_01b_al1.fla
+platform_icy_1a_al1.fla
+platform_icy_1b_al1.fla
+platform_icy_1c_al1.fla
+platform_topper_01a_al1.fla
+platform_topper_01b_al1.fla
+platform_topper_02a_al1.fla
+platform_topper_02b_al1.fla
+platform_topper_facet_01a_al1.fla
+rock_rubble_01a_al1.fla
+rock_rubble_01b_al1.fla
+rock_rubble_01c_al1.fla
+rock_rubble_01d_al1.fla
+rock_rubble_01e_al1.fla
+rock_rubble_01f_al1.fla
+rock_rubble_01g_al1.fla
+rock_rubble_corner_01a_al1.fla
+rock_snowy_1a_al1.fla
+rock_snowy_1b_al1.fla
+rock_snowy_1c_al1.fla
+rock_snowy_1d_al1.fla
+rock_snowy_1e_al1.fla
+shadow_brown_01b_al1.fla
+shadow_brown_01c_al1.fla
+shadow_brown_70percent_al1.fla
+snowband_1a_al1.fla
+snowcap_1a_al1.fla
+snowcap_1b_al1.fla
+snowcap_1c_al1.fla
+snowcap_1d_al1.fla
+snowcap_heights_coniferous_1_al1.fla
+snow_bush_01a_al1.fla
+snow_bush_01b_al1.fla
+snow_bush_01c_al1.fla
+snow_cap_01a_al1.fla
+snow_cap_01b_al1.fla
+snow_cap_01c_al1.fla
+snow_cap_01d_al1.fla
+snow_cliffface_01a_al1.fla
+snow_cliffface_01b_al1.fla
+snow_cliffface_mask_01a_al1.fla
+snow_drift_01a_al1.fla
+snow_drift_01b_al1.fla
+snow_pinecluster_01a_al1.fla
+snow_plat_01a_al1.fla
+snow_plat_01b_al1.fla
+snow_plat_01c_al1.fla
+snow_plat_01d_al1.fla
+snow_plat_01e_al1.fla
+snow_plat_01f_al1.fla
+snow_plat_dip_01a_al1.fla
+snow_plat_dip_01b_al1.fla
+snow_plat_rise_01a_al1.fla
+snow_plat_rise_01b_al1.fla
+snow_rubble_01a_al1.fla
+snow_rubble_01b_al1.fla
+snow_rubble_01c_al1.fla
+snow_rubble_01d_al1.fla
+snow_skirt_01a_al1.fla
+snow_skirt_01b_al1.fla
+snow_skirt_01c_al1.fla
+topper_icy_1a_al1.fla
+topper_icy_1b_al1.fla
+treemoss_01a_al1.fla
+treemoss_01b_al1.fla
+treemoss_01c_al1.fla
+treemoss_01d_al1.fla
+wall_boulders_01a_al1.fla
+wall_boulders_01b_al1.fla
+WindCurl.fla
+WindFog.fla
+WindWave.fla
+
+*** Processing cliffside_1a_al1.fla ***
+Exporting cliffside_1a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliffside_1a_al1.png
+
+
+*** Processing cliffside_1b_al1.fla ***
+Exporting cliffside_1b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliffside_1b_al1.png
+
+
+*** Processing cliffside_1c_al1.fla ***
+Exporting cliffside_1c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliffside_1c_al1.png
+
+
+*** Processing cliffside_1d_al1.fla ***
+Exporting cliffside_1d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliffside_1d_al1.png
+
+
+*** Processing cliffside_patch_1a_al1.fla ***
+Exporting cliffside_patch_1a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliffside_patch_1a_al1.png
+
+
+*** Processing cliff_face_bandaid_01a_al1.fla ***
+Exporting cliff_face_bandaid_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_01a_al1.png
+
+
+*** Processing cliff_face_bandaid_01b_al1.fla ***
+Exporting cliff_face_bandaid_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_01b_al1.png
+
+
+*** Processing cliff_face_bandaid_02a.fla ***
+Exporting cliff_face_bandaid_02a.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_02a.png
+
+
+*** Processing cliff_face_bandaid_02b.fla ***
+Exporting cliff_face_bandaid_02b.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_02b.png
+
+
+*** Processing cliff_face_bandaid_02c.fla ***
+Exporting cliff_face_bandaid_02c.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_02c.png
+
+
+*** Processing cliff_face_bandaid_highlight_02a.fla ***
+Exporting cliff_face_bandaid_highlight_02a.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_highlight_02a.png
+
+
+*** Processing cliff_face_bandaid_highlight_02b.fla ***
+Exporting cliff_face_bandaid_highlight_02b.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_highlight_02b.png
+
+
+*** Processing cliff_face_bandaid_highlight_02c.fla ***
+Exporting cliff_face_bandaid_highlight_02c.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_highlight_02c.png
+
+
+*** Processing cliff_face_bandaid_shadow_02a.fla ***
+Exporting cliff_face_bandaid_shadow_02a.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_shadow_02a.png
+
+
+*** Processing cliff_face_bandaid_shadow_02b.fla ***
+Exporting cliff_face_bandaid_shadow_02b.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_shadow_02b.png
+
+
+*** Processing cliff_face_bandaid_shadow_02c.fla ***
+Exporting cliff_face_bandaid_shadow_02c.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_shadow_02c.png
+
+
+*** Processing cliff_face_bandaid_topper_01a_al1.fla ***
+Exporting cliff_face_bandaid_topper_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_topper_01a_al1.png
+
+
+*** Processing cliff_face_bandaid_topper_01b_al1.fla ***
+Exporting cliff_face_bandaid_topper_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bandaid_topper_01b_al1.png
+
+
+*** Processing cliff_face_bg_topper_01a_al1.fla ***
+Exporting cliff_face_bg_topper_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bg_topper_01a_al1.png
+
+
+*** Processing cliff_face_bg_topper_01b_al1.fla ***
+Exporting cliff_face_bg_topper_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_bg_topper_01b_al1.png
+
+
+*** Processing cliff_face_crack_01a_al1.fla ***
+Exporting cliff_face_crack_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_crack_01a_al1.png
+
+
+*** Processing cliff_face_crack_01b_al1.fla ***
+Exporting cliff_face_crack_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_crack_01b_al1.png
+
+
+*** Processing cliff_face_mountaineering_01a_al1.fla ***
+Exporting cliff_face_mountaineering_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_mountaineering_01a_al1.png
+
+
+*** Processing cliff_face_mountaineering_01b_al1.fla ***
+Exporting cliff_face_mountaineering_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_mountaineering_01b_al1.png
+
+
+*** Processing cliff_face_mountaineering_01c_al1.fla ***
+Exporting cliff_face_mountaineering_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_mountaineering_01c_al1.png
+
+
+*** Processing cliff_face_mountaineering_01d_al1.fla ***
+Exporting cliff_face_mountaineering_01d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_mountaineering_01d_al1.png
+
+
+*** Processing cliff_face_mountaineering_01e_al1.fla ***
+Exporting cliff_face_mountaineering_01e_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_mountaineering_01e_al1.png
+
+
+*** Processing cliff_face_plat_01a_al1.fla ***
+Exporting cliff_face_plat_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_plat_01a_al1.png
+
+
+*** Processing cliff_face_plat_01b_al1.fla ***
+Exporting cliff_face_plat_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_plat_01b_al1.png
+
+
+*** Processing cliff_face_roof_01a_al1.fla ***
+Exporting cliff_face_roof_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_roof_01a_al1.png
+
+
+*** Processing cliff_face_roof_highlight_01a_al1.fla ***
+Exporting cliff_face_roof_highlight_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_roof_highlight_01a_al1.png
+
+
+*** Processing cliff_face_roof_shadow_01a_al1.fla ***
+Exporting cliff_face_roof_shadow_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_roof_shadow_01a_al1.png
+
+
+*** Processing cliff_face_skirt_01a_al1.fla ***
+Exporting cliff_face_skirt_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_skirt_01a_al1.png
+
+
+*** Processing cliff_face_skirt_01b_al1.fla ***
+Exporting cliff_face_skirt_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_skirt_01b_al1.png
+
+
+*** Processing cliff_face_snow_01a_al1.fla ***
+Exporting cliff_face_snow_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_snow_01a_al1.png
+
+
+*** Processing cliff_face_snow_01b_al1.fla ***
+Exporting cliff_face_snow_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_snow_01b_al1.png
+
+
+*** Processing cliff_face_snow_01c_al1.fla ***
+Exporting cliff_face_snow_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_snow_01c_al1.png
+
+
+*** Processing cliff_face_snow_01d_al1.fla ***
+Exporting cliff_face_snow_01d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_face_snow_01d_al1.png
+
+
+*** Processing cliff_side_highlight_long_mountaineering_01a_al1.fla ***
+Exporting cliff_side_highlight_long_mountaineering_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_side_highlight_long_mountaineering_01a_al1.png
+
+
+*** Processing cliff_side_highlight_overhang_01a_al1.fla ***
+Exporting cliff_side_highlight_overhang_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_side_highlight_overhang_01a_al1.png
+
+
+*** Processing cliff_side_highlight_short_mountaineering_01a_al1.fla ***
+Exporting cliff_side_highlight_short_mountaineering_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_side_highlight_short_mountaineering_01a_al1.png
+
+
+*** Processing cliff_side_highlight_underhang_01a_al1.fla ***
+Exporting cliff_side_highlight_underhang_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_side_highlight_underhang_01a_al1.png
+
+
+*** Processing cliff_side_highlight_vertical_ledge_01a_al1.fla ***
+Exporting cliff_side_highlight_vertical_ledge_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_side_highlight_vertical_ledge_01a_al1.png
+
+
+*** Processing cliff_side_shadow_long_mountaineering_01b_al1.fla ***
+Exporting cliff_side_shadow_long_mountaineering_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_side_shadow_long_mountaineering_01b_al1.png
+
+
+*** Processing cliff_side_shadow_overhang_01a_al1.fla ***
+Exporting cliff_side_shadow_overhang_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_side_shadow_overhang_01a_al1.png
+
+
+*** Processing cliff_side_shadow_short_mountaineering_01a_al1.fla ***
+Exporting cliff_side_shadow_short_mountaineering_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_side_shadow_short_mountaineering_01a_al1.png
+
+
+*** Processing cliff_side_shadow_underhang_01a_al1.fla ***
+Exporting cliff_side_shadow_underhang_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_side_shadow_underhang_01a_al1.png
+
+
+*** Processing cliff_side_shadow_vertical_ledge_01a_al1.fla ***
+Exporting cliff_side_shadow_vertical_ledge_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cliff_side_shadow_vertical_ledge_01a_al1.png
+
+
+*** Processing cone_top_rock_01a_al1.fla ***
+Exporting cone_top_rock_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cone_top_rock_01a_al1.png
+
+
+*** Processing cone_top_rock_01b_al1.fla ***
+Exporting cone_top_rock_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cone_top_rock_01b_al1.png
+
+
+*** Processing cone_top_snow_01a_al1.fla ***
+Exporting cone_top_snow_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cone_top_snow_01a_al1.png
+
+
+*** Processing cone_top_snow_01b_al1.fla ***
+Exporting cone_top_snow_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/cone_top_snow_01b_al1.png
+
+
+*** Processing draping_plant_01a_al1.fla ***
+Exporting draping_plant_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/draping_plant_01a_al1.png
+
+
+*** Processing draping_plant_01b_al1.fla ***
+Exporting draping_plant_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/draping_plant_01b_al1.png
+
+
+*** Processing draping_plant_01c_al1.fla ***
+Exporting draping_plant_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/draping_plant_01c_al1.png
+
+
+*** Processing exit_sign_01a_newxptutorialgroddle.fla ***
+Exporting exit_sign_01a_newxptutorialgroddle.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/exit_sign_01a_newxptutorialgroddle.png
+
+
+*** Processing freeze_01a_al.fla ***
+Exporting freeze_01a_al.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_01a_al.png
+
+
+*** Processing freeze_01_al.fla ***
+Exporting freeze_01_al.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_01_al.png
+
+
+*** Processing freeze_1_rung_1.fla ***
+Exporting freeze_1_rung_1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_1_rung_1.png
+
+
+*** Processing freeze_1_rung_2.fla ***
+Exporting freeze_1_rung_2.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_1_rung_2.png
+
+
+*** Processing freeze_1_rung_3.fla ***
+Exporting freeze_1_rung_3.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_1_rung_3.png
+
+
+*** Processing freeze_1_rung_4.fla ***
+Exporting freeze_1_rung_4.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_1_rung_4.png
+
+
+*** Processing freeze_1_rung_5.fla ***
+Exporting freeze_1_rung_5.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_1_rung_5.png
+
+
+*** Processing freeze_2_rung_1.fla ***
+Exporting freeze_2_rung_1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_2_rung_1.png
+
+
+*** Processing freeze_2_rung_2.fla ***
+Exporting freeze_2_rung_2.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_2_rung_2.png
+
+
+*** Processing freeze_2_rung_3.fla ***
+Exporting freeze_2_rung_3.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_2_rung_3.png
+
+
+*** Processing freeze_2_rung_4.fla ***
+Exporting freeze_2_rung_4.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_2_rung_4.png
+
+
+*** Processing freeze_2_rung_5.fla ***
+Exporting freeze_2_rung_5.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_2_rung_5.png
+
+
+*** Processing freeze_single_v1_al1.fla ***
+Exporting freeze_single_v1_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/freeze_single_v1_al1.png
+
+
+*** Processing icicle_1a_al1.fla ***
+Exporting icicle_1a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/icicle_1a_al1.png
+
+
+*** Processing icicle_1b_al1.fla ***
+Exporting icicle_1b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/icicle_1b_al1.png
+
+
+*** Processing juju_grandma_campfire_01a_al1.fla ***
+juju_grandma_campfire_01a_al1.fla has multiple frames and will be skipped
+
+
+*** Processing juju_grandma_chair_01a_al1.fla ***
+Exporting juju_grandma_chair_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/juju_grandma_chair_01a_al1.png
+
+
+*** Processing juju_grandma_papers_01a_al1.fla ***
+Exporting juju_grandma_papers_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/juju_grandma_papers_01a_al1.png
+
+
+*** Processing juju_grandma_papers_01b_al1.fla ***
+Exporting juju_grandma_papers_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/juju_grandma_papers_01b_al1.png
+
+
+*** Processing juju_grandma_papers_01c_al1.fla ***
+Exporting juju_grandma_papers_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/juju_grandma_papers_01c_al1.png
+
+
+*** Processing juju_grandma_tent_01a_al1.fla ***
+Exporting juju_grandma_tent_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/juju_grandma_tent_01a_al1.png
+
+
+*** Processing ladder_base_01a_al1.fla ***
+Exporting ladder_base_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/ladder_base_01a_al1.png
+
+
+*** Processing ladder_base_corner_01a_al1.fla ***
+Exporting ladder_base_corner_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/ladder_base_corner_01a_al1.png
+
+
+*** Processing ladder_corner_01a_al1.fla ***
+Exporting ladder_corner_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/ladder_corner_01a_al1.png
+
+
+*** Processing ladder_corner_01b_al1.fla ***
+Exporting ladder_corner_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/ladder_corner_01b_al1.png
+
+
+*** Processing ladder_hole_01a_al1.fla ***
+Exporting ladder_hole_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/ladder_hole_01a_al1.png
+
+
+*** Processing ladder_hole_01b_al1.fla ***
+Exporting ladder_hole_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/ladder_hole_01b_al1.png
+
+
+*** Processing ladder_rock_01a_al1.fla ***
+Exporting ladder_rock_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/ladder_rock_01a_al1.png
+
+
+*** Processing ladder_rock_01b_al1.fla ***
+Exporting ladder_rock_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/ladder_rock_01b_al1.png
+
+
+*** Processing mound_modular_1a_al1.fla ***
+Exporting mound_modular_1a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mound_modular_1a_al1.png
+
+
+*** Processing mound_modular_1b_al1.fla ***
+Exporting mound_modular_1b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mound_modular_1b_al1.png
+
+
+*** Processing mound_modular_1c_al1.fla ***
+Exporting mound_modular_1c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mound_modular_1c_al1.png
+
+
+*** Processing mound_modular_1d_al1.fla ***
+Exporting mound_modular_1d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mound_modular_1d_al1.png
+
+
+*** Processing mound_modular_1e_al1.fla ***
+Exporting mound_modular_1e_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mound_modular_1e_al1.png
+
+
+*** Processing mountain_bonsai_01a_al1.fla ***
+Exporting mountain_bonsai_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mountain_bonsai_01a_al1.png
+
+
+*** Processing mountain_bonsai_01b_al1.fla ***
+Exporting mountain_bonsai_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mountain_bonsai_01b_al1.png
+
+
+*** Processing mountain_bonsai_01c_al1.fla ***
+Exporting mountain_bonsai_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mountain_bonsai_01c_al1.png
+
+
+*** Processing mountain_flora_01a_al1.fla ***
+Exporting mountain_flora_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mountain_flora_01a_al1.png
+
+
+*** Processing mountain_flora_01b_al1.fla ***
+Exporting mountain_flora_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mountain_flora_01b_al1.png
+
+
+*** Processing mountain_flora_01c_al1.fla ***
+Exporting mountain_flora_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mountain_flora_01c_al1.png
+
+
+*** Processing mountain_flora_01d_al1.fla ***
+Exporting mountain_flora_01d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mountain_flora_01d_al1.png
+
+
+*** Processing mountain_flora_01e_al1.fla ***
+Exporting mountain_flora_01e_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mountain_flora_01e_al1.png
+
+
+*** Processing mountain_flora_01f_al1.fla ***
+Exporting mountain_flora_01f_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mountain_flora_01f_al1.png
+
+
+*** Processing mountain_flora_01g_al1.fla ***
+Exporting mountain_flora_01g_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mountain_flora_01g_al1.png
+
+
+*** Processing mountain_flora_01h_al1.fla ***
+Exporting mountain_flora_01h_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/mountain_flora_01h_al1.png
+
+
+*** Processing patch_deco.fla ***
+Exporting patch_deco.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/patch_deco.png
+
+
+*** Processing platform_cone_base_01a_al1.fla ***
+Exporting platform_cone_base_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_cone_base_01a_al1.png
+
+
+*** Processing platform_cone_base_01b_al1.fla ***
+Exporting platform_cone_base_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_cone_base_01b_al1.png
+
+
+*** Processing platform_cone_topper_01a_al1.fla ***
+Exporting platform_cone_topper_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_cone_topper_01a_al1.png
+
+
+*** Processing platform_cone_topper_01b_al1.fla ***
+Exporting platform_cone_topper_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_cone_topper_01b_al1.png
+
+
+*** Processing platform_horizontal_ledge_corner_left_bottom_mountaineering_01b_al1.fla ***
+Exporting platform_horizontal_ledge_corner_left_bottom_mountaineering_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_horizontal_ledge_corner_left_bottom_mountaineering_01b_al1.png
+
+
+*** Processing platform_horizontal_ledge_corner_left_dip_01a_al1.fla ***
+Exporting platform_horizontal_ledge_corner_left_dip_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_horizontal_ledge_corner_left_dip_01a_al1.png
+
+
+*** Processing platform_horizontal_ledge_corner_left_mountaineering_01b_al1.fla ***
+Exporting platform_horizontal_ledge_corner_left_mountaineering_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_horizontal_ledge_corner_left_mountaineering_01b_al1.png
+
+
+*** Processing platform_horizontal_ledge_corner_left_rise_01a_al1.fla ***
+Exporting platform_horizontal_ledge_corner_left_rise_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_horizontal_ledge_corner_left_rise_01a_al1.png
+
+
+*** Processing platform_horizontal_ledge_corner_right_bottom_mountaineering_01b_al1.fla ***
+Exporting platform_horizontal_ledge_corner_right_bottom_mountaineering_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_horizontal_ledge_corner_right_bottom_mountaineering_01b_al1.png
+
+
+*** Processing platform_horizontal_ledge_corner_right_dip_01a_al1.fla ***
+Exporting platform_horizontal_ledge_corner_right_dip_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_horizontal_ledge_corner_right_dip_01a_al1.png
+
+
+*** Processing platform_horizontal_ledge_corner_right_mountaineering_01b_al1.fla ***
+Exporting platform_horizontal_ledge_corner_right_mountaineering_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_horizontal_ledge_corner_right_mountaineering_01b_al1.png
+
+
+*** Processing platform_horizontal_ledge_corner_right_rise_01a_al1.fla ***
+Exporting platform_horizontal_ledge_corner_right_rise_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_horizontal_ledge_corner_right_rise_01a_al1.png
+
+
+*** Processing platform_horizontal_ledge_mountaineering_01a_al1.fla ***
+Exporting platform_horizontal_ledge_mountaineering_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_horizontal_ledge_mountaineering_01a_al1.png
+
+
+*** Processing platform_horizontal_ledge_mountaineering_01b_al1.fla ***
+Exporting platform_horizontal_ledge_mountaineering_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_horizontal_ledge_mountaineering_01b_al1.png
+
+
+*** Processing platform_icy_1a_al1.fla ***
+Exporting platform_icy_1a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_icy_1a_al1.png
+
+
+*** Processing platform_icy_1b_al1.fla ***
+Exporting platform_icy_1b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_icy_1b_al1.png
+
+
+*** Processing platform_icy_1c_al1.fla ***
+Exporting platform_icy_1c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_icy_1c_al1.png
+
+
+*** Processing platform_topper_01a_al1.fla ***
+Exporting platform_topper_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_topper_01a_al1.png
+
+
+*** Processing platform_topper_01b_al1.fla ***
+Exporting platform_topper_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_topper_01b_al1.png
+
+
+*** Processing platform_topper_02a_al1.fla ***
+Exporting platform_topper_02a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_topper_02a_al1.png
+
+
+*** Processing platform_topper_02b_al1.fla ***
+Exporting platform_topper_02b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_topper_02b_al1.png
+
+
+*** Processing platform_topper_facet_01a_al1.fla ***
+Exporting platform_topper_facet_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/platform_topper_facet_01a_al1.png
+
+
+*** Processing rock_rubble_01a_al1.fla ***
+Exporting rock_rubble_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_rubble_01a_al1.png
+
+
+*** Processing rock_rubble_01b_al1.fla ***
+Exporting rock_rubble_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_rubble_01b_al1.png
+
+
+*** Processing rock_rubble_01c_al1.fla ***
+Exporting rock_rubble_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_rubble_01c_al1.png
+
+
+*** Processing rock_rubble_01d_al1.fla ***
+Exporting rock_rubble_01d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_rubble_01d_al1.png
+
+
+*** Processing rock_rubble_01e_al1.fla ***
+Exporting rock_rubble_01e_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_rubble_01e_al1.png
+
+
+*** Processing rock_rubble_01f_al1.fla ***
+Exporting rock_rubble_01f_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_rubble_01f_al1.png
+
+
+*** Processing rock_rubble_01g_al1.fla ***
+Exporting rock_rubble_01g_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_rubble_01g_al1.png
+
+
+*** Processing rock_rubble_corner_01a_al1.fla ***
+Exporting rock_rubble_corner_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_rubble_corner_01a_al1.png
+
+
+*** Processing rock_snowy_1a_al1.fla ***
+Exporting rock_snowy_1a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_snowy_1a_al1.png
+
+
+*** Processing rock_snowy_1b_al1.fla ***
+Exporting rock_snowy_1b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_snowy_1b_al1.png
+
+
+*** Processing rock_snowy_1c_al1.fla ***
+Exporting rock_snowy_1c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_snowy_1c_al1.png
+
+
+*** Processing rock_snowy_1d_al1.fla ***
+Exporting rock_snowy_1d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_snowy_1d_al1.png
+
+
+*** Processing rock_snowy_1e_al1.fla ***
+Exporting rock_snowy_1e_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/rock_snowy_1e_al1.png
+
+
+*** Processing shadow_brown_01b_al1.fla ***
+Exporting shadow_brown_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/shadow_brown_01b_al1.png
+
+
+*** Processing shadow_brown_01c_al1.fla ***
+Exporting shadow_brown_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/shadow_brown_01c_al1.png
+
+
+*** Processing shadow_brown_70percent_al1.fla ***
+Exporting shadow_brown_70percent_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/shadow_brown_70percent_al1.png
+
+
+*** Processing snowband_1a_al1.fla ***
+Exporting snowband_1a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snowband_1a_al1.png
+
+
+*** Processing snowcap_1a_al1.fla ***
+Exporting snowcap_1a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snowcap_1a_al1.png
+
+
+*** Processing snowcap_1b_al1.fla ***
+Exporting snowcap_1b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snowcap_1b_al1.png
+
+
+*** Processing snowcap_1c_al1.fla ***
+Exporting snowcap_1c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snowcap_1c_al1.png
+
+
+*** Processing snowcap_1d_al1.fla ***
+Exporting snowcap_1d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snowcap_1d_al1.png
+
+
+*** Processing snowcap_heights_coniferous_1_al1.fla ***
+Exporting snowcap_heights_coniferous_1_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snowcap_heights_coniferous_1_al1.png
+
+
+*** Processing snow_bush_01a_al1.fla ***
+Exporting snow_bush_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_bush_01a_al1.png
+
+
+*** Processing snow_bush_01b_al1.fla ***
+Exporting snow_bush_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_bush_01b_al1.png
+
+
+*** Processing snow_bush_01c_al1.fla ***
+Exporting snow_bush_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_bush_01c_al1.png
+
+
+*** Processing snow_cap_01a_al1.fla ***
+Exporting snow_cap_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_cap_01a_al1.png
+
+
+*** Processing snow_cap_01b_al1.fla ***
+Exporting snow_cap_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_cap_01b_al1.png
+
+
+*** Processing snow_cap_01c_al1.fla ***
+Exporting snow_cap_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_cap_01c_al1.png
+
+
+*** Processing snow_cap_01d_al1.fla ***
+Exporting snow_cap_01d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_cap_01d_al1.png
+
+
+*** Processing snow_cliffface_01a_al1.fla ***
+Exporting snow_cliffface_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_cliffface_01a_al1.png
+
+
+*** Processing snow_cliffface_01b_al1.fla ***
+Exporting snow_cliffface_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_cliffface_01b_al1.png
+
+
+*** Processing snow_cliffface_mask_01a_al1.fla ***
+Exporting snow_cliffface_mask_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_cliffface_mask_01a_al1.png
+
+
+*** Processing snow_drift_01a_al1.fla ***
+Exporting snow_drift_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_drift_01a_al1.png
+
+
+*** Processing snow_drift_01b_al1.fla ***
+Exporting snow_drift_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_drift_01b_al1.png
+
+
+*** Processing snow_pinecluster_01a_al1.fla ***
+Exporting snow_pinecluster_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_pinecluster_01a_al1.png
+
+
+*** Processing snow_plat_01a_al1.fla ***
+Exporting snow_plat_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_plat_01a_al1.png
+
+
+*** Processing snow_plat_01b_al1.fla ***
+Exporting snow_plat_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_plat_01b_al1.png
+
+
+*** Processing snow_plat_01c_al1.fla ***
+Exporting snow_plat_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_plat_01c_al1.png
+
+
+*** Processing snow_plat_01d_al1.fla ***
+Exporting snow_plat_01d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_plat_01d_al1.png
+
+
+*** Processing snow_plat_01e_al1.fla ***
+Exporting snow_plat_01e_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_plat_01e_al1.png
+
+
+*** Processing snow_plat_01f_al1.fla ***
+Exporting snow_plat_01f_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_plat_01f_al1.png
+
+
+*** Processing snow_plat_dip_01a_al1.fla ***
+Exporting snow_plat_dip_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_plat_dip_01a_al1.png
+
+
+*** Processing snow_plat_dip_01b_al1.fla ***
+Exporting snow_plat_dip_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_plat_dip_01b_al1.png
+
+
+*** Processing snow_plat_rise_01a_al1.fla ***
+Exporting snow_plat_rise_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_plat_rise_01a_al1.png
+
+
+*** Processing snow_plat_rise_01b_al1.fla ***
+Exporting snow_plat_rise_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_plat_rise_01b_al1.png
+
+
+*** Processing snow_rubble_01a_al1.fla ***
+Exporting snow_rubble_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_rubble_01a_al1.png
+
+
+*** Processing snow_rubble_01b_al1.fla ***
+Exporting snow_rubble_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_rubble_01b_al1.png
+
+
+*** Processing snow_rubble_01c_al1.fla ***
+Exporting snow_rubble_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_rubble_01c_al1.png
+
+
+*** Processing snow_rubble_01d_al1.fla ***
+Exporting snow_rubble_01d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_rubble_01d_al1.png
+
+
+*** Processing snow_skirt_01a_al1.fla ***
+Exporting snow_skirt_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_skirt_01a_al1.png
+
+
+*** Processing snow_skirt_01b_al1.fla ***
+Exporting snow_skirt_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_skirt_01b_al1.png
+
+
+*** Processing snow_skirt_01c_al1.fla ***
+Exporting snow_skirt_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/snow_skirt_01c_al1.png
+
+
+*** Processing topper_icy_1a_al1.fla ***
+Exporting topper_icy_1a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/topper_icy_1a_al1.png
+
+
+*** Processing topper_icy_1b_al1.fla ***
+Exporting topper_icy_1b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/topper_icy_1b_al1.png
+
+
+*** Processing treemoss_01a_al1.fla ***
+Exporting treemoss_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/treemoss_01a_al1.png
+
+
+*** Processing treemoss_01b_al1.fla ***
+Exporting treemoss_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/treemoss_01b_al1.png
+
+
+*** Processing treemoss_01c_al1.fla ***
+Exporting treemoss_01c_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/treemoss_01c_al1.png
+
+
+*** Processing treemoss_01d_al1.fla ***
+Exporting treemoss_01d_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/treemoss_01d_al1.png
+
+
+*** Processing wall_boulders_01a_al1.fla ***
+Exporting wall_boulders_01a_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/wall_boulders_01a_al1.png
+
+
+*** Processing wall_boulders_01b_al1.fla ***
+Exporting wall_boulders_01b_al1.fla to file:///C|/Users/matthew/Pictures/glitch-alpine-flas/png/wall_boulders_01b_al1.png
+
+
+*** Processing WindCurl.fla ***
+WindCurl.fla has multiple frames and will be skipped
+
+
+*** Processing WindFog.fla ***
+WindFog.fla has multiple frames and will be skipped
+
+
+*** Processing WindWave.fla ***
+WindWave.fla has multiple frames and will be skipped
+
